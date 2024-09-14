@@ -35,7 +35,7 @@ const Widgets = () => {
               <EllipsisHorizontalIcon className="w-[20px]" />
             </div>
             
-            <span className="font-bold text-sm">#Munting</span>
+            <span className="font-bold text-sm">#Trees</span>
             <span className="text-[#536471] text-xs">240k Bumbles</span>
           </div>
         ))}
