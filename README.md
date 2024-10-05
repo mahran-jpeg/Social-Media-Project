@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Busy Bee - Social Media App
 
+Developed a full-stack social media app with features like posts, post feeds, likes, modals, and authentication, using Firebase for database management.
+
 First, run the development server:
 
 ```bash
